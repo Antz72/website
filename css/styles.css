@@ -518,7 +518,7 @@ Features-stack
     width: 706px;
     height: 1002px;
     position: absolute;
-    bottom: 450px;
+    bottom: 400px;
     left: -700px;
     background: url("../img/ipad-device.png") no-repeat center center;
     z-index: 1; }
@@ -528,7 +528,7 @@ Features-stack
     background: url("../img/iphone6.png") no-repeat center center;
     position: absolute;
     left: -230px;
-    bottom: 350px;
+    bottom: 300px;
     z-index: 2; }
   .features .device-showcase {
     position: absolute;
